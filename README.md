@@ -14,9 +14,9 @@ This script is designed to automate the process of swiping right on all potentia
 
 ## Important Note
 
-As the Bumble UI keeps changing from time to time, it is possible that this script may encounter issues or may not work as expected due to updates made by Tinder.
+As the Bumble UI keeps changing from time to time, it is possible that this script may encounter issues or may not work as expected due to updates made by Bumble.
 
-If you encounter any issues or face difficulties while executing this script, please don't hesitate to raise an issue in this repository. We are committed to maintaining and improving the script to ensure its functionality with the latest Tinder UI changes. Your feedback and bug reports are highly valuable to us.
+If you encounter any issues or face difficulties while executing this script, please don't hesitate to raise an issue in this repository. We are committed to maintaining and improving the script to ensure its functionality with the latest UI changes. Your feedback and bug reports are highly valuable to us.
 
 We will make every effort to address reported issues and update the script promptly. Thank you for your understanding and cooperation.
 
@@ -25,7 +25,7 @@ Feel free to [open an issue](https://github.com/amitoj-singh/bumble-auto-liker/i
 
 ## Disclaimer
 
-Please use this script responsibly and in compliance with Bumble's terms of service. Automation tools can potentially violate Tinder's policies. The authors and contributors of this script are not responsible for any misuse or consequences resulting from the use of this software.
+Please use this script responsibly and in compliance with Bumble's terms of service. Automation tools can potentially violate Bumble's policies. The authors and contributors of this script are not responsible for any misuse or consequences resulting from the use of this software.
 
 ## License
 
